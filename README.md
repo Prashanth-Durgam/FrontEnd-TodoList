@@ -1,5 +1,8 @@
 # ToDoTracker
 
+Introduction This project is a Full Stack Todo List Application which is built using the SpringBoot, Micro-Services, MySQL, MongoDB, CSS, Javascript. It implements all the basic functionalities of a todo list, i.e, CRUD Operations (Create Read Update Delete).
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
